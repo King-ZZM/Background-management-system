@@ -1,0 +1,107 @@
+{
+  "id": "3244634",
+  "name": "sell-manage",
+  "font_family": "iconfont",
+  "css_prefix_text": "icon-",
+  "description": "",
+  "glyphs": [
+    {
+      "icon_id": "77149",
+      "name": "进入店铺",
+      "font_class": "shop",
+      "unicode": "e600",
+      "unicode_decimal": 58880
+    },
+    {
+      "icon_id": "658035",
+      "name": "钱",
+      "font_class": "money",
+      "unicode": "e662",
+      "unicode_decimal": 58978
+    },
+    {
+      "icon_id": "712658",
+      "name": "home",
+      "font_class": "home",
+      "unicode": "e60b",
+      "unicode_decimal": 58891
+    },
+    {
+      "icon_id": "746378",
+      "name": "账号",
+      "font_class": "account",
+      "unicode": "e65b",
+      "unicode_decimal": 58971
+    },
+    {
+      "icon_id": "947048",
+      "name": "订单",
+      "font_class": "order",
+      "unicode": "e652",
+      "unicode_decimal": 58962
+    },
+    {
+      "icon_id": "1028071",
+      "name": "钱",
+      "font_class": "money1",
+      "unicode": "e67c",
+      "unicode_decimal": 59004
+    },
+    {
+      "icon_id": "1115839",
+      "name": "统计",
+      "font_class": "count",
+      "unicode": "e607",
+      "unicode_decimal": 58887
+    },
+    {
+      "icon_id": "1356161",
+      "name": "眼睛-闭",
+      "font_class": "closeeye",
+      "unicode": "e61d",
+      "unicode_decimal": 58909
+    },
+    {
+      "icon_id": "2076282",
+      "name": " 订单",
+      "font_class": "order1",
+      "unicode": "e897",
+      "unicode_decimal": 59543
+    },
+    {
+      "icon_id": "4954942",
+      "name": "商品",
+      "font_class": "shopping",
+      "unicode": "e65c",
+      "unicode_decimal": 58972
+    },
+    {
+      "icon_id": "7738003",
+      "name": "订单",
+      "font_class": "dingdan2",
+      "unicode": "e603",
+      "unicode_decimal": 58883
+    },
+    {
+      "icon_id": "9575917",
+      "name": "开眼睛",
+      "font_class": "openeye",
+      "unicode": "e6a7",
+      "unicode_decimal": 59047
+    },
+    {
+      "icon_id": "14445364",
+      "name": "锁",
+      "font_class": "lock",
+      "unicode": "e623",
+      "unicode_decimal": 58915
+    },
+    {
+      "icon_id": "17927304",
+      "name": "用户",
+      "font_class": "account1",
+      "unicode": "e601",
+      "unicode_decimal": 58881
+    }
+  ]
+}
